@@ -24,7 +24,7 @@ moremore
 
 ##Copyright
 
-WalkerCorp 2017
+WalkerCorp 2017 Eclipse day daddy
 
 ## AYYY
 
