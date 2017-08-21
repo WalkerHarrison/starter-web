@@ -15,3 +15,7 @@ let's keep the convo going
 juno it
 
 ## more crap
+
+##Copyright
+
+WalkerCorp 2017
