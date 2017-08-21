@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    WALKER @walkerharrison
 
 # TECHNOLOGY COLOPHON
 
